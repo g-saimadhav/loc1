@@ -1,3 +1,7 @@
+const mongoose =require('mongoose');
+require('dotenv').config();
+const PORT=process.env.PORT || 3000;
+
 var gracefulShutdown;
 const mongoose=require("mongoose");
 var dbURI = 'mongodb://0.0.0.0:27017/';
