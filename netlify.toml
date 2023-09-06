@@ -1,0 +1,5 @@
+[[redirects]]
+from="/*"
+to="/location-list.jade"
+status=200
+```
