@@ -1,0 +1,1 @@
+angualr.module('loc8rApp',[]);
